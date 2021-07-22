@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, This is Mahavir 👋
+
+ 
+- 🔭 I’m Computer science student at ADGITM Delhi (2018- 2022).
+- 4 Star coder at codechef.
+- Google summer of code 2021 student.
+- Android developer (java / flutter ).
+- Front End developer (Html, Css, Js, react Js).
+- My projects list - https://bishtmanish739.github.io/my-project-list1/  
 
 <!--
 **bishtmanish739/bishtmanish739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
