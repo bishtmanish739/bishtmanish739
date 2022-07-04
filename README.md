@@ -1,3 +1,5 @@
+![mahavirImage](https://user-images.githubusercontent.com/44024089/177078883-ad9bdfea-1ab2-46d5-8673-65b3c92d0c31.jpg)
+
 ### Hi, This is Mahavir 👋
 
  
@@ -5,7 +7,7 @@
 - 4 Star coder at codechef.
 - Google summer of code 2021 student.
 - Android developer (java / flutter ).
-- Front End developer (Html, Css, Js, react Js).
+- Web developer (Html, Css, Js, react Js,MongoDb,Node.js).
 - My projects list - https://bishtmanish739.github.io/my-project-list1/  
 
 <!--
